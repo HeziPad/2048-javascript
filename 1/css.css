@@ -1,0 +1,93 @@
+body {
+	background-color:#fdfdfd;
+}
+#main {
+	margin-left: auto;
+	margin-right: auto;
+	border-style:solid;
+	border-width:1em;
+	border-color:#000000;
+	border-radius:1em;
+	width:50em;
+	height:50em;
+	background-color:#585858;
+}
+p {
+	text-align: center;
+	vertical-align:middle;
+	font-size: 3em;
+}
+
+.square {
+	position:absolute;
+	width:10em;
+	height:10em;
+	background-color:#fffa91;
+	border-radius:1em;
+}
+
+#r1c1 {
+	margin-left: 2em;
+	margin-top: 2em;
+}
+#r1c2 {
+	margin-left: 14em;
+	margin-top: 2em;
+}
+#r1c3 {
+	margin-left: 26em;
+	margin-top: 2em;
+}
+#r1c4 {
+	margin-left: 38em;
+	margin-top: 2em;
+}
+#r2c1 {
+	margin-left: 2em;
+	margin-top: 14em;
+}
+#r2c2 {
+	margin-left: 14em;
+	margin-top: 14em;
+}
+#r2c3 {
+	margin-left: 26em;
+	margin-top: 14em;
+}
+#r2c4 {
+	margin-left: 38em;
+	margin-top: 14em;
+}
+#r3c1 {
+	margin-left: 2em;
+	margin-top: 26em;
+}
+#r3c2 {
+	margin-left: 14em;
+	margin-top: 26em;
+}
+#r3c3 {
+	margin-left: 26em;
+	margin-top: 26em;
+}
+#r3c4 {
+	margin-left: 38em;
+	margin-top: 26em;
+}
+#r4c1 {
+	margin-left: 2em;
+	margin-top: 38em;
+}
+#r4c2 {
+	margin-left: 14em;
+	margin-top: 38em;
+}
+#r4c3 {
+	margin-left: 26em;
+	margin-top: 38em;
+}
+#r4c4 {
+	margin-left: 38em;
+	margin-top: 38em;
+}
+
